@@ -9,15 +9,15 @@
 
 ```mermaid
     flowchart TD
-        S1["Choose a document workflow"]
-    S2["Provide a file"]
-    S3["Apply controlled processing"]
-    S4["Review high-level output"]
-    S5["Export a sanitized result"]
-    S1 --> S2
-    S2 --> S3
-    S3 --> S4
-    S4 --> S5
+        W1["Choose a document workflow"]
+    W2["Provide a file"]
+    W3["Apply controlled processing"]
+    W4["Review high-level output"]
+    W5["Export a sanitized result"]
+    W1 --> W2
+    W2 --> W3
+    W3 --> W4
+    W4 --> W5
 ```
 
 ## Publication boundary
